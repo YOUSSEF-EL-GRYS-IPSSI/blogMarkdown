@@ -1,0 +1,9 @@
+# In all environments, the following files are loaded if they exist,
+1- Veuilllez créer une base de données au nom de blog
+2- Importer le fichier sql blog.sql
+
+3-Le lien pour créer les articles automatiquement
+          http://localhost/BLOG/app/fonctions/create_article_faker.php vous pouvez les tester avec postman
+
+N.B : Il faut que ke projet soit à la racine de votre serveur (www/BLOG ou htdocs/BLOG)
+
